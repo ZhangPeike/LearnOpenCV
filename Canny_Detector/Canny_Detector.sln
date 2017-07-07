@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Canny_Detector", "Canny_Detector\Canny_Detector.vcxproj", "{A409F515-0C28-42D0-9D67-11DCE9F966FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A409F515-0C28-42D0-9D67-11DCE9F966FC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A409F515-0C28-42D0-9D67-11DCE9F966FC}.Debug|Win32.Build.0 = Debug|Win32
+		{A409F515-0C28-42D0-9D67-11DCE9F966FC}.Release|Win32.ActiveCfg = Release|Win32
+		{A409F515-0C28-42D0-9D67-11DCE9F966FC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+﻿  how_to_scan_images_Learn.cpp
+e:\opencv3_2\opencv\build\include\opencv2\core\mat.hpp(2586): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\opencv3_2\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\opencv3_2\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\opencv3_2\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Project_20170611_Learning3.vcxproj -> G:\Engineering\VC++\Project_20170611_Learning3\x64\Debug\Project_20170611_Learning3.exe
+  Project_20170611_Learning3.vcxproj -> G:\Engineering\VC++\Project_20170611_Learning3\x64\Debug\Project_20170611_Learning3.pdb (Full PDB)
